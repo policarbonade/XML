@@ -1,7 +1,7 @@
-name: Polly
-last name: Dolotenkova
-partonymic: Olegovna
-age: 22
-pets: 2
-salary: 65 000
+<name>Polly</name>
+<last_name>Dolotenkova</last_name> 
+<partonymic>Olegovna</partonymic>
+<age>22</age>
+<pets>2</pets>
+<salary>65000</salary> 
 

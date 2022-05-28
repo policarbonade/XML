@@ -1,7 +1,7 @@
-1: Git Bash
-2: HTML
-3: Positive Testing
-4: Negative testing
-5: Smoke testing
-6: Regression testing
+<f>Git Bash</f>
+<s>HTML</s>
+<t>Positive Testing</t>
+<f>Negative testing</f>
+<f1>Smoke testing</f1>
+<s>Regression testing</s>
 
